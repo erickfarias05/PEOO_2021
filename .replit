@@ -1,0 +1,2 @@
+language = "bash"
+run = "mcs -out:main.exe 'URI/1002.cs' ; mono main.exe"
